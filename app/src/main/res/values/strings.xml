@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Baseball</string>
+    <string name="app_name">Mover</string>
     <string name="text_need_internet">Подключитесь к интернету и нажмите кнопку</string>
     <string name="restart_internet">Перезапустить</string>
 </resources>

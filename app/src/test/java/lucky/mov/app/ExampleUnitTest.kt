@@ -1,4 +1,4 @@
-package com.kost4n.baseball
+package lucky.mov.app
 
 import org.junit.Test
 

@@ -1,10 +1,10 @@
-package com.kost4n.baseball
+package lucky.mov.app
 
 import android.content.Intent
 import android.os.Bundle
 import android.view.Window
 import androidx.appcompat.app.AppCompatActivity
-import com.kost4n.baseball.databinding.ActivityNeedInternetBinding
+import lucky.mov.app.databinding.ActivityNeedInternetBinding
 
 class NeedInternetActivity: AppCompatActivity() {
     private lateinit var binding: ActivityNeedInternetBinding

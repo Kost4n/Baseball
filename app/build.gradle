@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.kost4n.baseball'
+    namespace 'lucky.mov.app'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.kost4n.baseball"
+        applicationId "lucky.mov.app"
         minSdk 21
         targetSdk 33
         versionCode 1

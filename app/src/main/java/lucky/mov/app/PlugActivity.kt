@@ -1,13 +1,12 @@
-package com.kost4n.baseball
+package lucky.mov.app
 
 import android.app.AlertDialog
 import android.os.Bundle
-import android.os.CountDownTimer
 import android.text.Editable
 import android.util.Log
 import android.view.Window
 import androidx.appcompat.app.AppCompatActivity
-import com.kost4n.baseball.databinding.ActivityPlugBinding
+import lucky.mov.app.databinding.ActivityPlugBinding
 
 
 class PlugActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.kost4n.baseball
+package lucky.mov.app
 
 import android.content.Context
 import android.content.Intent
@@ -9,11 +9,10 @@ import android.os.Bundle
 import android.view.Window
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.FirebaseException
-import com.kost4n.baseball.databinding.ActivityLoadingBinding
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings
+import lucky.mov.app.databinding.ActivityLoadingBinding
 import java.io.File
-import java.io.IOException
 import java.util.Locale
 
 
